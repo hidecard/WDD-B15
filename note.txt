@@ -1,0 +1,21 @@
+Element ၂ မျိုး
+1. Inline El ( သူနေရာ သူပဲ ယူတာ )
+2.Block level El ( နေရာအပြည့်ယူတာ )
+
+div = division 
+
+el = >  နေရာရွှေ ၊  group ဖွဲ့ ( layout ) ၊ အလှဆင်ဖို့
+
+attribute
+* El တွေ ကို ပိုပီး ထူးခြားအောင်လုပ်ပေးတဲ့ကောင်၏
+* EL ရဲ့ Open Tag ထဲမှာ ပဲ ရေးလို့ရတယ်
+* Open tag ထဲမှာ ရှိတဲ့ =" " ပါတဲ့ ကောင်ကို 
+
+Eg .
+
+<a a="" b="" c=""></a>
+
+
+Css စသုံး
+
+style ဆိုတဲ့ attribute 
