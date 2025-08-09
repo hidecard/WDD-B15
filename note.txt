@@ -19,3 +19,14 @@ Eg .
 Css စသုံး
 
 style ဆိုတဲ့ attribute 
+
+Css = 3 မျိုး
+1. Inline Css
+    html el အတွင်း ထဲမှာ ရေးထားတဲ့ကောင် / style attribute ကို သုံးတဲ့ ကောင်
+2.Internal Css
+    style el ကို သုံးပီးရေးတာ / head အပိတ်နဲ့ body အဖွင့်
+3.External Css
+    css file ဆောက်ပီး html ကနေ link ချိတ်ပီး ခေါ်သုံးတဲ့ကောင်
+
+style="color: red";
+    properties  value
