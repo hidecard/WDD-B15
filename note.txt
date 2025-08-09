@@ -30,3 +30,20 @@ Css = 3 မျိုး
 
 style="color: red";
     properties  value
+
+selector
+h1{
+    color: red;
+}
+
+Css selector ၅ မျိုး
+
+1. Element selector
+
+2. id selector (#)
+3. class selector(.)
+
+4. group selector
+5. universal selector
+
+
