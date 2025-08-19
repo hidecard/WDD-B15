@@ -1,0 +1,35 @@
+.logo img{
+    width: 50px;
+}
+.main{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    display:flex;
+}
+.links a{
+     margin: 20px;
+     text-decoration: none;
+     color: black;
+}
+aside{
+    height: 300px;
+width: 60%;
+float: left;
+line-height: double;
+}
+
+ section{
+    height: 300px;
+width: 40%;
+float: right;0
+line-height: double;
+}
+section h1{
+    color: blue;
+}
+#submit{
+    background-color: blue;
+}
